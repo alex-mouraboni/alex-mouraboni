@@ -17,3 +17,20 @@ Welcome to my github page, feel free! 👨‍💻
       </td>
     </tr>
 </table>
+
+<table>
+    <tr>
+    <p align="center">:globe_with_meridians: Technologies and tools I'm currently studying:</p>
+        <td width="20%">
+            <h3 align="center">🚀 Skills</h3>
+        </td>
+        <td align="left">
+            <img alt="HTML 5" src="https://img.shields.io/badge/%20HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=white"">
+            <img alt="CSS3" src="https://img.shields.io/badge/%20CSS-%231772b6?style=for-the-badge&logo=css3&logoColor=white">
+            <img alt="Git" src="https://img.shields.io/badge/%20GIT-%23f34f29?style=for-the-badge&logo=git&logoColor=white">
+            <img alt="Github" src="https://img.shields.io/badge/%20GITHUB-%23191919?style=for-the-badge&logo=github&logoColor=white">
+            <img alt="Markdown" src="https://img.shields.io/badge/%20MARKDOWN-%23191919?style=for-the-badge&logo=markdown&logoColor=white">
+            <img alt="Visual Studio Code" src="https://img.shields.io/badge/%20Visual%20Studio%20Code-%23007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+        </td>
+    </tr>
+</table>
