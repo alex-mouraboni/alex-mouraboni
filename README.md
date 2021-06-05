@@ -21,10 +21,10 @@ Welcome to my github page, feel free! 👨‍💻
 <table>
     <tr>
     <p align="center">:globe_with_meridians: Technologies and tools I'm currently studying:</p>
-        <td width="20%">
+        <td width="30%">
             <h3 align="center">🚀 Skills</h3>
         </td>
-        <td align="left">
+        <td align="center">
             <img alt="HTML 5" src="https://img.shields.io/badge/%20HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=white"">
             <img alt="CSS3" src="https://img.shields.io/badge/%20CSS-%231772b6?style=for-the-badge&logo=css3&logoColor=white">
             <img alt="Git" src="https://img.shields.io/badge/%20GIT-%23f34f29?style=for-the-badge&logo=git&logoColor=white">
