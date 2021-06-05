@@ -10,10 +10,10 @@ Welcome to my github page, feel free! 👨‍💻
     <tr>
     <p align="center">:mag_right: Github stats:</p>
       <td width="50%" align="center" vertical-align="middle">
-        <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=alex-mouraboni&show_icons=true&theme=midnight-purple">
+        <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=alex-mouraboni&show_icons=true&theme=great-gatsby">
       </td>
       <td width="50%" align="center" vertical-align="middle">
-        <img width="100%" height="auto" align="center" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-mouraboni&layout=compact&theme=midnight-purple">
+        <img width="100%" height="auto" align="center" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-mouraboni&layout=compact&theme=great-gatsby">
       </td>
     </tr>
 </table>
