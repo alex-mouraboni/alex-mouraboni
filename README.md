@@ -1,26 +1,26 @@
-<h1 align="center">👋 print("Olá, Mundo!")</h1>
+### Alex de Moura Boni 👨‍💻
 
-<p align="center">Olá, Me chamo <strong>Alex de Moura Boni!</strong> Seja bem-vindo a minha página do Github. Fique a vontade!</p>
+[![GitHub followers](https://img.shields.io/github/followers/alex-mouraboni.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
 
-<h3 align="center">👩‍💻 🏳️‍🌈 O que estou estudando atualmente:</h3>
-<div align="center">
-    <img alt="HTML5" src="https://img.shields.io/badge/%20HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=white">
-    </br>
-    <img alt="CSS3" src="https://img.shields.io/badge/%20CSS-%231772b6?style=for-the-badge&logo=css3&logoColor=white">
-    </br>
-    <img alt="Lua" src="https://img.shields.io/badge/%20LUA-%230000ff?style=for-the-badge&logo=lua&logoColor=white">
-</div>
+Welcome to my github page, feel free! 👨‍💻
 
----
+<img width="50%" src="hackerman.jpg">
 
-<h3 align="center">
-    📚 Estatisticas do Github:
-</h3>
-
-<div align="center">
-        <img alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=alex-mouraboni&show_icons=true&theme=jolly">
-        </br>
-        <img alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-mouraboni&layout=compact&theme=jolly">
-</div>
-
----
+<table>
+    <tr>
+    <p align="center">:mag_right: Github stats:</p>
+      <td width="50%" align="center" vertical-align="middle">
+        <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=alex-mouraboni&show_icons=true&theme=midnight-purple">
+      </td>
+      <td width="50%" align="center" vertical-align="middle">
+        <img width="100%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-mouraboni&show_icons=true&theme=midnight-purple">
+      </td>
+    </tr>
+</table>
+<table>
+    <tr>
+      <td width="100%" align="center" vertical-align="middle">
+        <img width="100%" height="auto" align="center" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-mouraboni&layout=compact&theme=midnight-purple">
+      </td>
+    </tr>
+</table>
